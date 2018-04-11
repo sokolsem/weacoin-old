@@ -1,4 +1,4 @@
-#Weacoin project 2018
+Weacoin project 2018
 
 Weacoin is a Scrypt PoS based cryptocurrency for VDS/old PC minting.
 
