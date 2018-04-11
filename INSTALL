@@ -1,0 +1,9 @@
+Building Weacoin
+
+See doc/readme-qt.rst for instructions on building Weacoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Weacoin.
+
+See doc/build-*.txt for instructions on building weacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Weacoin.
