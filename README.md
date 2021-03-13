@@ -1,5 +1,5 @@
 Weacoin project
-THIS IS OLD REPO, do not compatible with Weacoin 2021!
+# THIS IS OLD REPO, do not compatible with Weacoin 2021!
 
 Weacoin is a Scrypt Pow/PoS based cryptocurrency for VDS/old PC minting.
 
